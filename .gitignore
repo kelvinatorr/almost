@@ -1,2 +1,9 @@
 # Google App Engine generated folder
 appengine-generated/
+
+
+*.pyc
+
+.idea/
+node_modules/**
+/node_modules/**/node-modules/**
