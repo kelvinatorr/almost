@@ -7,3 +7,8 @@ appengine-generated/
 .idea/
 node_modules/**
 /node_modules/**/node-modules/**
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
